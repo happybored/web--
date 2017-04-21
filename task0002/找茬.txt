@@ -1,0 +1,5 @@
+http://www.hcw.so/
+地方网站
+太多用div
+不符合语义化
+具有相似主题的一组内容应该用section
